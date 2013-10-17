@@ -1,3 +1,4 @@
+--My first program
 --This line will remove the status bar at the top of screen,
 --some apps you might want to keep it in, but not for games!
 display.setStatusBar(display.HiddenStatusBar)
